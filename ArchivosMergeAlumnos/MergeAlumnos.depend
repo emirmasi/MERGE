@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632763432 source:c:\progra c2\archivosmergealumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mergeAlumnos.h"
+
+1632764603 c:\progra c2\archivosmergealumnos\mergealumnos.h
+	<stdio.h>
+	<stdbool.h>
+
+1632792423 source:c:\progra c2\archivosmergealumnos\mergealumnos.c
+	"mergeAlumnos.h"
+	<string.h>
+
